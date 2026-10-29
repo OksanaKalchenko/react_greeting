@@ -1,7 +1,10 @@
 import "./App.css";
+import Greeting from "./components/Greeting";
 
 function App() {
-  return <></>;
+  return <>
+  <Greeting></Greeting>
+  </>;
 }
 
 export default App;
